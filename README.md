@@ -1,4 +1,6 @@
-# curtain pole
+![](https://img.shields.io/badge/study-8A2BE2)  
+
+# Inverted Pendulum
 
 AI learning for a game where you move the pedestal left and right to prevent the pole from falling.
 
