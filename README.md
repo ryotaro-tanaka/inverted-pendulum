@@ -56,12 +56,12 @@ $ python pg0029.py
 #### 7. Deactivating the Virtual Environment
 
 ```bash
-$deactivate
+$ deactivate
 ```
 
 ## Supplement
 
-To change the number of steps, adjust the value of X."
+To change the number of steps, adjust the value of X.
 
 ```py
 model.learn(total_timesteps=X)
